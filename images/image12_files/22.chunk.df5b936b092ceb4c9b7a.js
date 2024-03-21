@@ -1,0 +1,2 @@
+/*! For license information please see 22.chunk.df5b936b092ceb4c9b7a.js.LICENSE.txt */
+(window.webpackJsonp=window.webpackJsonp||[]).push([[22],{731:function(e,n,t){"use strict";n.a={"1:1":1,"1:2":.5,"1:3":1/3,"1:4":1/4,"2:3":2/3,"3:4":3/4}},732:function(e,n,t){"use strict";t.d(n,"b",(function(){return a}));var o=t(0),s=t.n(o);const c=s.a.createContext(null),a=()=>Object(o.useContext)(c);n.a=e=>s.a.createElement(c.Provider,Object.assign({value:{isHero:e.isHero}},e))}}]);

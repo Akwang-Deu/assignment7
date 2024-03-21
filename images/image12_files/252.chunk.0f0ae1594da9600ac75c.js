@@ -1,0 +1,2 @@
+/*! For license information please see 252.chunk.0f0ae1594da9600ac75c.js.LICENSE.txt */
+(window.webpackJsonp=window.webpackJsonp||[]).push([[252],{1048:function(e,t,n){"use strict";n.r(t);var a=n(0),r=n.n(a),l=n(3),c=n(17),o=n(136),p=n(45),i=n(16),u=n(46),w=n(63);t.default=e=>{const{link:t,body:n}=e,a=Object(c.epiPropertyValue)(t)?new l.URLX(Object(c.epiPropertyValue)(t).url):null;return r.a.createElement(p.a,{to:a,onClick:()=>{u.c.track(w.a)}},r.a.createElement(o.c,null,r.a.createElement(c.EpiProperty,{for:n,component:o.b}),r.a.createElement(i.a.SimpleRight,null)))}}}]);
